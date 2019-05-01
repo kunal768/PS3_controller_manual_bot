@@ -30,3 +30,4 @@ python main.py
 
 
 ## Glimpse Of Our Robo
+<img src = "https://github.com/kunal768/PS3_controller_manual_bot/blob/master/public/WhatsApp%20Image%202019-05-01%20at%204.31.10%20PM.jpeg" > 
