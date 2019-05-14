@@ -13,6 +13,11 @@ Made with :heart: in [Team Technocrats Robotics](https://github.com/technocrats-
 ```
 Setting up a raspberry pi via a proper SSH connection 
 ```
+``` 
+Connect the controller USB to the raspberry pi 
+```
+![Conncection](https://github.com/kunal768/PS3_controller_manual_bot/blob/master/public/pi-pd.jpg)
+
 ## Setup 
 
 Setup your raspberry pi <br><br>
