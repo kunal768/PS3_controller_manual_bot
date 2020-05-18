@@ -181,7 +181,7 @@ void AntiClockWise(){
 void loop() {
   // put your main code here, to run repeatedly:
 
-  // MAGIC FUNCTION 
+  // MAGIC FUNCTION (Never fuck with this )
 int s[22];
   int i=0;
   while(1){
